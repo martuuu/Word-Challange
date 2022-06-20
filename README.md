@@ -1,2 +1,2 @@
-# Word-Challange
-Simple word-guessing game
+# triunfo
+anotador de triunfo
